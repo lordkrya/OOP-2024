@@ -1,0 +1,107 @@
+
+{
+  "division": {
+    "battalions": [
+      {
+        "position": {
+          "x": 1000,
+          "y": 8000
+        },
+        "soldiers": [
+          {
+            "name": "John Doe",
+            "rank": 1,
+            "uniform_size": 52,
+            "skills": [0, 1, 2]
+          },
+          {
+            "name": "Jane Smith",
+            "rank": 2,
+            "uniform_size": 52,
+            "skills": [2, 3]
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 6000,
+          "y": 7000
+        },
+        "soldiers": [
+		  {
+            "name": "Peter Pan",
+            "rank": 1,
+            "uniform_size": 52,
+            "skills": [3, 4]
+          },
+          {
+            "name": "Alice Cooper",
+            "rank": 3,
+            "uniform_size": 52,
+            "skills": [4]
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 7000,
+          "y": 8000
+        },
+        "soldiers": [
+		  {
+            "name": "Peter Pan",
+            "rank": 1,
+            "uniform_size": 52,
+            "skills": [3, 4]
+          },
+          {
+            "name": "Alice Cooper",
+            "rank": 3,
+            "uniform_size": 52,
+            "skills": [4]
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 8000,
+          "y": 6000
+        },
+        "soldiers": [
+		  {
+            "name": "Peter Pan",
+            "rank": 1,
+            "uniform_size": 52,
+            "skills": [3, 4]
+          },
+          {
+            "name": "Alice Cooper",
+            "rank": 3,
+            "uniform_size": 52,
+            "skills": [4]
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 8000,
+          "y": 7000
+        },
+        "soldiers": [
+		  {
+            "name": "Peter Pan",
+            "rank": 1,
+            "uniform_size": 52,
+            "skills": [3, 4]
+          },
+          {
+            "name": "Alice Cooper",
+            "rank": 3,
+            "uniform_size": 52,
+            "skills": [4]
+          }
+        ]
+      }
+    ]
+  }
+}

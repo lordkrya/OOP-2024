@@ -1,0 +1,83 @@
+
+{
+  "map": {
+	"name": "Customs",
+	"sizeX": 9,
+	"sizeY": 9,
+	
+	"fields": [
+	  {
+	    "position": {
+          "x": 0,
+          "y": 0
+        },
+		"region": 0,
+		"attributes": [ [1, 1] ]
+	  },
+	  {
+	    "position": {
+          "x": 1,
+          "y": 0
+        },
+		"region": 1,
+		"attributes": [ [2, 1] ]
+	  },
+	  {
+	    "position": {
+          "x": 2,
+          "y": 0
+        },
+		"region": 1,
+		"attributes": [ [] ]
+	  },
+	  {
+	    "position": {
+          "x": 0,
+          "y": 1
+        },
+		"region": 0,
+		"attributes": [ [1, 3], [2, 1] ]
+	  },
+	  {
+	    "position": {
+          "x": 1,
+          "y": 1
+        },
+		"region": 2,
+		"attributes": [ [0, 1], [1, 2], [2, 4] ]
+	  },
+	  {
+	    "position": {
+          "x": 2,
+          "y": 1
+        },
+		"region": 2,
+		"attributes": [ [0, 1], [1, 3] ]
+	  },
+	  {
+	    "position": {
+          "x": 0,
+          "y": 2
+        },
+		"region": 3,
+		"attributes": [ [] ]
+	  },
+	  {
+	    "position": {
+          "x": 1,
+          "y": 2
+        },
+		"region": 0,
+		"attributes": [ [0, 3], [2, 1] ]
+	  },
+	  {
+	    "position": {
+          "x": 2,
+          "y": 2
+        },
+		"region": 0,
+		"attributes": [ [0, 3], [1, 2], [2, 1]]
+	  }
+	]
+  }
+}
